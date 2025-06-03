@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/usr/local/include",
+                "/opt/homebrew/include",
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include" // 添加系统 SDK 路径
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++", // 更改为 clang++，更适合 macOS
+            "cStandard": "c17",
+            "cppStandard": "c++20", // 更新为 c++20，匹配现代代码
+            "intelliSenseMode": "macos-gcc-arm64" // 更改为 clang 模式
+        }
+    ],
+    "version": 4
+}

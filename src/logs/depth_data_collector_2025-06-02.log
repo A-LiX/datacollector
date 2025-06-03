@@ -1,0 +1,10 @@
+[2025-06-02 14:19:37.094] [weekly_logger] [info] Starting WebSocket client...
+[2025-06-02 14:19:37.094] [weekly_logger] [info] Created io_context
+[2025-06-02 14:19:37.097] [weekly_logger] [info] Configured SSL context
+[2025-06-02 14:19:37.097] [weekly_logger] [info] Defined server information: host=stream.binance.com, port=9443, target=/ws/btcusdt@depth20@100ms
+[2025-06-02 14:19:37.382] [weekly_logger] [info] DNS resolution succeeded
+[2025-06-02 14:19:37.383] [weekly_logger] [info] Created WebSocket stream
+[2025-06-02 14:19:37.383] [weekly_logger] [info] TCP connection succeeded
+[2025-06-02 14:19:37.953] [weekly_logger] [info] SSL handshake succeeded
+[2025-06-02 14:19:38.151] [weekly_logger] [info] WebSocket handshake succeeded
+[2025-06-02 14:19:38.151] [weekly_logger] [info] Connected to Binance WebSocket at stream.binance.com
